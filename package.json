@@ -1,8 +1,8 @@
 {
     "name": "vamtiger-person-abraham-mamela-json-ld",
-    "version": "0.0.2",
+    "version": "0.0.3-0",
     "description": "VAMTIGER Person Abraham Mamela JSON-LD",
-    "main": "build",
+    "main": "build/vamtiger-person-abraham-mamela-json-ld",
     "scripts": {
         "test": "npm run clean && npm run build && npm run bundle-node-test && npm run bundle-browser-test && npm run mocha && npm run bundle-source",
         "mocha": "mocha build/test/node --recursive",
