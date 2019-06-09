@@ -1,6 +1,6 @@
 {
     "name": "vamtiger-person-abraham-mamela-json-ld",
-    "version": "0.0.1",
+    "version": "0.0.2-0",
     "description": "VAMTIGER Person Abraham Mamela JSON-LD",
     "main": "build",
     "scripts": {
