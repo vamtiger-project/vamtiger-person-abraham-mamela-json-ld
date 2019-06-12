@@ -13,4 +13,4 @@ export interface ILoadScript {
     data: IAnyObject;
 }
 
-export const url = 'https://unpkg.com/vamtiger-person-abraham-mamela-json-ld';
+export const url = 'https://cdn.jsdelivr.net/npm/vamtiger-person-abraham-mamela-json-ld@latest/build/vamtiger-person-abraham-mamela-json-ld.js';
