@@ -26,7 +26,8 @@
         "watch-css": "npm run bundle-css -- --watch",
         "watch": "vamtiger-watch --folder source --extension ts --script test",
         "serve": "npm run test && cd build && python -m SimpleHTTPServer",
-        "install-source": "npm i --save-dev vamtiger-browser-method@source"
+        "install-source": "npm i --save-dev vamtiger-browser-method@source",
+        "publish-preview": "git add -A; git commit -m test -a; git push -u origin gh-pages"
     },
     "repository": {
         "type": "git",
